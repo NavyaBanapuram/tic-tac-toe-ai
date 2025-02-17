@@ -20,7 +20,7 @@ A simple Tic-Tac-Toe game with Human vs Human and Human vs AI (Minimax algorithm
 5. A **popup appears** showing the winner or if it's a draw.
 
 ## 📌 Live Demo
-🔗 Play it here: **[GitHub Pages Link] https://jasmin-lilly.github.io/tic-tac-toe-ai/**  
+🔗 Play it here: **[GitHub Pages Link]  https://navyabanapuram.github.io/tic-tac-toe-ai/**  
 _(Update the link after hosting it on GitHub Pages)_
 
 ## 📥 Installation (For Local Setup)
