@@ -26,4 +26,4 @@ _(Update the link after hosting it on GitHub Pages)_
 ## 📥 Installation (For Local Setup)
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/jasmin-lilly/tic-tac-toe-ai.git
+   git clone https://github.com/NavyaBanapuram/tic-tac-toe-ai.git
